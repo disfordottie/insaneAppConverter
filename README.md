@@ -31,4 +31,4 @@ Which can then be converted to their respective Bundle ID's:
 
 ## Bulk Purchasing Apps
 
-Finally, apps can be added to your purchased list in bulk using 
+Finally, apps can be added to your purchased list in bulk using another script I've made, [Insane iOS App Purchaser](https://github.com/disfordottie/insaneAppPurchaser).
